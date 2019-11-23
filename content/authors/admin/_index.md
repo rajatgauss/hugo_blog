@@ -22,9 +22,11 @@ bio: My research interests include design and analysis of energy storage systems
 
 interests:
 - Artificial Intelligence
-- Design of Mechanical Systems
-- Load Forecasting, Data Analysis and Visualization
+- Load Forecasting
+- Data Analysis and Visualization
 - Control Systems Modelling and Optimization
+- Design of Mechanical Systems
+
 
 education:
   courses:
