@@ -27,9 +27,10 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Developed Neural Newtork based Load Forecasting Algorithm
+  * Developed Artificial Neural Network based Load Forecasting Algorithm
   * Developed Electric Vehicle Charge Optimization Algorithm
-  * Developed Battery Sizing Algorithm 
+  * Developed Battery Sizing Algorithm accounting for Battery Degradation
+
 
   """
 

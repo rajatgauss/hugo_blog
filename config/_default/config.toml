@@ -9,14 +9,16 @@ title = "Ras' Corner"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://acsweb.ucsd.edu/"
+baseurl = "https://rajatgauss.github.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
 copyright = "2019 | rajatsethi"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-153109895-1"
+
+publishDir = "rajatgauss.github.io"
 
 ############################
 ## Advanced options below ##
